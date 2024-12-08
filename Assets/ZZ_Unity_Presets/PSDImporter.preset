@@ -1,0 +1,5424 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PSDImporter
+  m_TargetType:
+    m_NativeTypeID: 2089858483
+    m_ManagedTypePPtr: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_ExternalObjects.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_UserData
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AssetBundleName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AssetBundleVariant
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_AlphaSource
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_MipMapMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_EnableMipMap
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_FadeOut
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_BorderMipMap
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_MipMapsPreserveCoverage
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_AlphaTestReferenceValue
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_MipMapFadeDistanceStart
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_MipMapFadeDistanceEnd
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_ConvertToNormalMap
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_HeightScale
+    value: 0.25
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_NormalMapFilter
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_FlipGreenChannel
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_Swizzle
+    value: 50462976
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_IsReadable
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_StreamingMipmaps
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_StreamingMipmapsPriority
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_VTOnly
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_IgnoreMipmapLimit
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_NPOTScale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_sRGBTexture
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_SpriteMode
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_SpriteExtrude
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_SpriteMeshType
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_Alignment
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_SpritePivot.x
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_SpritePivot.y
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_SpritePixelsToUnits
+    value: 100
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_SpriteBorder.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_SpriteBorder.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_SpriteBorder.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_SpriteBorder.w
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_SpriteGenerateFallbackPhysicsShape
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_GenerateCubemap
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_CubemapConvolution
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_SeamlessCubemap
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_AlphaIsTransparency
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_SpriteTessellationDetail
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_TextureType
+    value: 8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_TextureShape
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_SingleChannelComponent
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_FlipbookRows
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_FlipbookColumns
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_IgnorePngGamma
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_CookieMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_FilterMode
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_Aniso
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_MipBias
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_WrapU
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_WrapV
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_WrapW
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_NormalMap
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_TextureFormat
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_MaxTextureSize
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_Lightmap
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_CompressionQuality
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_LinearTexture
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_GrayScaleToAlpha
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_RGBM
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_CubemapConvolutionSteps
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_CubemapConvolutionExponent
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_MaxTextureSizeSet
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_CompressionQualitySet
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_TextureFormatSet
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureImporterSettings.m_ApplyGammaDecoding
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SingleSpriteImportData.Array.size
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SingleSpriteImportData.Array.data[0].m_Name
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SingleSpriteImportData.Array.data[0].m_OriginalName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SingleSpriteImportData.Array.data[0].m_Pivot.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SingleSpriteImportData.Array.data[0].m_Pivot.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SingleSpriteImportData.Array.data[0].m_Alignment
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SingleSpriteImportData.Array.data[0].m_Border.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SingleSpriteImportData.Array.data[0].m_Border.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SingleSpriteImportData.Array.data[0].m_Border.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SingleSpriteImportData.Array.data[0].m_Border.w
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SingleSpriteImportData.Array.data[0].m_CustomData
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SingleSpriteImportData.Array.data[0].m_Rect.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SingleSpriteImportData.Array.data[0].m_Rect.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SingleSpriteImportData.Array.data[0].m_Rect.width
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SingleSpriteImportData.Array.data[0].m_Rect.height
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SingleSpriteImportData.Array.data[0].m_SpriteID
+    value: 5819850946724cf4f847d525b2816443
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SingleSpriteImportData.Array.data[0].spriteBone.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SingleSpriteImportData.Array.data[0].spriteOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SingleSpriteImportData.Array.data[0].vertices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SingleSpriteImportData.Array.data[0].spritePhysicsOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SingleSpriteImportData.Array.data[0].indices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SingleSpriteImportData.Array.data[0].edges.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SingleSpriteImportData.Array.data[0].tessellationDetail
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SingleSpriteImportData.Array.data[0].uvTransform.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SingleSpriteImportData.Array.data[0].uvTransform.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SingleSpriteImportData.Array.data[0].spritePosition.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SingleSpriteImportData.Array.data[0].spritePosition.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_MultiSpriteImportData.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.size
+    value: 30
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[0].m_Name
+    value: None
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[0].m_OriginalName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[0].m_Pivot.x
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[0].m_Pivot.y
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[0].m_Alignment
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[0].m_Border.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[0].m_Border.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[0].m_Border.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[0].m_Border.w
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[0].m_CustomData
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[0].m_Rect.x
+    value: 1371
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[0].m_Rect.y
+    value: 8018
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[0].m_Rect.width
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[0].m_Rect.height
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[0].m_SpriteID
+    value: 07c18e17779bbef4da63067bc0cb73b1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[0].spriteBone.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[0].spriteOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[0].vertices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[0].spritePhysicsOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[0].indices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[0].edges.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[0].tessellationDetail
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[0].uvTransform.x
+    value: 1371
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[0].uvTransform.y
+    value: 8018
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[0].spritePosition.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[0].spritePosition.y
+    value: 6826
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[1].m_Name
+    value: TearsSmall
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[1].m_OriginalName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[1].m_Pivot.x
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[1].m_Pivot.y
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[1].m_Alignment
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[1].m_Border.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[1].m_Border.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[1].m_Border.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[1].m_Border.w
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[1].m_CustomData
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[1].m_Rect.x
+    value: 366
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[1].m_Rect.y
+    value: 6829
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[1].m_Rect.width
+    value: 370
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[1].m_Rect.height
+    value: 339
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[1].m_SpriteID
+    value: 695e18916820e8d4d85e713b3e14d383
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[1].spriteBone.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[1].spriteOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[1].vertices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[1].spritePhysicsOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[1].indices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[1].edges.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[1].tessellationDetail
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[1].uvTransform.x
+    value: 366
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[1].uvTransform.y
+    value: 6829
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[1].spritePosition.x
+    value: 667
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[1].spritePosition.y
+    value: 5775
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[2].m_Name
+    value: SuperTears
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[2].m_OriginalName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[2].m_Pivot.x
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[2].m_Pivot.y
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[2].m_Alignment
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[2].m_Border.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[2].m_Border.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[2].m_Border.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[2].m_Border.w
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[2].m_CustomData
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[2].m_Rect.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[2].m_Rect.y
+    value: 6829
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[2].m_Rect.width
+    value: 363
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[2].m_Rect.height
+    value: 361
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[2].m_SpriteID
+    value: 63ddc8e3f4edcaf4488a65c883c7e70d
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[2].spriteBone.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[2].spriteOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[2].vertices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[2].spritePhysicsOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[2].indices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[2].edges.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[2].tessellationDetail
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[2].uvTransform.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[2].uvTransform.y
+    value: 6829
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[2].spritePosition.x
+    value: 671
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[2].spritePosition.y
+    value: 5756
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[3].m_Name
+    value: BlushAndSweat
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[3].m_OriginalName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[3].m_Pivot.x
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[3].m_Pivot.y
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[3].m_Alignment
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[3].m_Border.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[3].m_Border.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[3].m_Border.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[3].m_Border.w
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[3].m_CustomData
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[3].m_Rect.x
+    value: 738
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[3].m_Rect.y
+    value: 6829
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[3].m_Rect.width
+    value: 529
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[3].m_Rect.height
+    value: 205
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[3].m_SpriteID
+    value: 8ae0db56dd6e3f84cbfacbb03f70259a
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[3].spriteBone.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[3].spriteOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[3].vertices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[3].spritePhysicsOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[3].indices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[3].edges.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[3].tessellationDetail
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[3].uvTransform.x
+    value: 738
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[3].uvTransform.y
+    value: 6829
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[3].spritePosition.x
+    value: 579
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[3].spritePosition.y
+    value: 5925
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[4].m_Name
+    value: Blush
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[4].m_OriginalName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[4].m_Pivot.x
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[4].m_Pivot.y
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[4].m_Alignment
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[4].m_Border.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[4].m_Border.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[4].m_Border.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[4].m_Border.w
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[4].m_CustomData
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[4].m_Rect.x
+    value: 638
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[4].m_Rect.y
+    value: 7192
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[4].m_Rect.width
+    value: 529
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[4].m_Rect.height
+    value: 205
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[4].m_SpriteID
+    value: c0f505d371c452442b6debd5573972ca
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[4].spriteBone.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[4].spriteOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[4].vertices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[4].spritePhysicsOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[4].indices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[4].edges.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[4].tessellationDetail
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[4].uvTransform.x
+    value: 638
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[4].uvTransform.y
+    value: 7192
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[4].spritePosition.x
+    value: 579
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[4].spritePosition.y
+    value: 5925
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[5].m_Name
+    value: Sweat
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[5].m_OriginalName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[5].m_Pivot.x
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[5].m_Pivot.y
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[5].m_Alignment
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[5].m_Border.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[5].m_Border.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[5].m_Border.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[5].m_Border.w
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[5].m_CustomData
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[5].m_Rect.x
+    value: 1371
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[5].m_Rect.y
+    value: 7918
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[5].m_Rect.width
+    value: 31
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[5].m_Rect.height
+    value: 98
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[5].m_SpriteID
+    value: 8f5bf54d024a8f84d9aa5546f4385b9c
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[5].spriteBone.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[5].spriteOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[5].vertices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[5].spritePhysicsOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[5].indices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[5].edges.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[5].tessellationDetail
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[5].uvTransform.x
+    value: 1371
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[5].uvTransform.y
+    value: 7918
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[5].spritePosition.x
+    value: 969
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[5].spritePosition.y
+    value: 5932
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[6].m_Name
+    value: VerySad
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[6].m_OriginalName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[6].m_Pivot.x
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[6].m_Pivot.y
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[6].m_Alignment
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[6].m_Border.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[6].m_Border.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[6].m_Border.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[6].m_Border.w
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[6].m_CustomData
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[6].m_Rect.x
+    value: 1074
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[6].m_Rect.y
+    value: 7467
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[6].m_Rect.width
+    value: 308
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[6].m_Rect.height
+    value: 61
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[6].m_SpriteID
+    value: 70719474dadccc344b6ab8472a44ca55
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[6].spriteBone.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[6].spriteOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[6].vertices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[6].spritePhysicsOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[6].indices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[6].edges.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[6].tessellationDetail
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[6].uvTransform.x
+    value: 1074
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[6].uvTransform.y
+    value: 7467
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[6].spritePosition.x
+    value: 714
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[6].spritePosition.y
+    value: 6185
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[7].m_Name
+    value: SadBrow
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[7].m_OriginalName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[7].m_Pivot.x
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[7].m_Pivot.y
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[7].m_Alignment
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[7].m_Border.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[7].m_Border.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[7].m_Border.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[7].m_Border.w
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[7].m_CustomData
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[7].m_Rect.x
+    value: 866
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[7].m_Rect.y
+    value: 7918
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[7].m_Rect.width
+    value: 308
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[7].m_Rect.height
+    value: 58
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[7].m_SpriteID
+    value: fbaf7454dc13b1d40a16c90c40472a7e
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[7].spriteBone.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[7].spriteOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[7].vertices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[7].spritePhysicsOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[7].indices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[7].edges.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[7].tessellationDetail
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[7].uvTransform.x
+    value: 866
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[7].uvTransform.y
+    value: 7918
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[7].spritePosition.x
+    value: 714
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[7].spritePosition.y
+    value: 6185
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[8].m_Name
+    value: Confused
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[8].m_OriginalName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[8].m_Pivot.x
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[8].m_Pivot.y
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[8].m_Alignment
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[8].m_Border.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[8].m_Border.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[8].m_Border.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[8].m_Border.w
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[8].m_CustomData
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[8].m_Rect.x
+    value: 731
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[8].m_Rect.y
+    value: 7863
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[8].m_Rect.width
+    value: 324
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[8].m_Rect.height
+    value: 51
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[8].m_SpriteID
+    value: 4d2cbb071b72ace469f75a8daa0d9785
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[8].spriteBone.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[8].spriteOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[8].vertices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[8].spritePhysicsOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[8].indices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[8].edges.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[8].tessellationDetail
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[8].uvTransform.x
+    value: 731
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[8].uvTransform.y
+    value: 7863
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[8].spritePosition.x
+    value: 699
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[8].spritePosition.y
+    value: 6188
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[9].m_Name
+    value: Angry
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[9].m_OriginalName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[9].m_Pivot.x
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[9].m_Pivot.y
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[9].m_Alignment
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[9].m_Border.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[9].m_Border.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[9].m_Border.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[9].m_Border.w
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[9].m_CustomData
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[9].m_Rect.x
+    value: 1074
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[9].m_Rect.y
+    value: 7399
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[9].m_Rect.width
+    value: 317
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[9].m_Rect.height
+    value: 66
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[9].m_SpriteID
+    value: 55635cee02096d6479e4b5a6b3302165
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[9].spriteBone.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[9].spriteOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[9].vertices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[9].spritePhysicsOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[9].indices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[9].edges.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[9].tessellationDetail
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[9].uvTransform.x
+    value: 1074
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[9].uvTransform.y
+    value: 7399
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[9].spritePosition.x
+    value: 696
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[9].spritePosition.y
+    value: 6168
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[10].m_Name
+    value: Default
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[10].m_OriginalName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[10].m_Pivot.x
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[10].m_Pivot.y
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[10].m_Alignment
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[10].m_Border.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[10].m_Border.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[10].m_Border.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[10].m_Border.w
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[10].m_CustomData
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[10].m_Rect.x
+    value: 445
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[10].m_Rect.y
+    value: -2573
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[10].m_Rect.width
+    value: 337
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[10].m_Rect.height
+    value: 34
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[10].m_SpriteID
+    value: 1b8243ac4a3ad1c49a4336ee6febfab7
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[10].spriteBone.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[10].spriteOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[10].vertices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[10].spritePhysicsOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[10].indices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[10].edges.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[10].tessellationDetail
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[10].uvTransform.x
+    value: 1452
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[10].uvTransform.y
+    value: 2427
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[10].spritePosition.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[10].spritePosition.y
+    value: 2984
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[11].m_Name
+    value: SideEye
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[11].m_OriginalName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[11].m_Pivot.x
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[11].m_Pivot.y
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[11].m_Alignment
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[11].m_Border.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[11].m_Border.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[11].m_Border.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[11].m_Border.w
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[11].m_CustomData
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[11].m_Rect.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[11].m_Rect.y
+    value: 7918
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[11].m_Rect.width
+    value: 430
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[11].m_Rect.height
+    value: 122
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[11].m_SpriteID
+    value: 385f85ae7269d1246aaf5646a14b9f8f
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[11].spriteBone.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[11].spriteOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[11].vertices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[11].spritePhysicsOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[11].indices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[11].edges.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[11].tessellationDetail
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[11].uvTransform.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[11].uvTransform.y
+    value: 7918
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[11].spritePosition.x
+    value: 631
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[11].spritePosition.y
+    value: 6086
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[12].m_Name
+    value: Pleased
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[12].m_OriginalName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[12].m_Pivot.x
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[12].m_Pivot.y
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[12].m_Alignment
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[12].m_Border.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[12].m_Border.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[12].m_Border.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[12].m_Border.w
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[12].m_CustomData
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[12].m_Rect.x
+    value: 433
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[12].m_Rect.y
+    value: 7918
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[12].m_Rect.width
+    value: 431
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[12].m_Rect.height
+    value: 111
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[12].m_SpriteID
+    value: d483b7832d9fc984f957579abf70dd53
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[12].spriteBone.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[12].spriteOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[12].vertices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[12].spritePhysicsOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[12].indices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[12].edges.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[12].tessellationDetail
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[12].uvTransform.x
+    value: 433
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[12].uvTransform.y
+    value: 7918
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[12].spritePosition.x
+    value: 632
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[12].spritePosition.y
+    value: 6093
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[13].m_Name
+    value: Closed
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[13].m_OriginalName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[13].m_Pivot.x
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[13].m_Pivot.y
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[13].m_Alignment
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[13].m_Border.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[13].m_Border.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[13].m_Border.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[13].m_Border.w
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[13].m_CustomData
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[13].m_Rect.x
+    value: 298
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[13].m_Rect.y
+    value: 7734
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[13].m_Rect.width
+    value: 431
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[13].m_Rect.height
+    value: 130
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[13].m_SpriteID
+    value: 60589012e0db55d4eb2c62632de15de1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[13].spriteBone.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[13].spriteOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[13].vertices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[13].spritePhysicsOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[13].indices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[13].edges.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[13].tessellationDetail
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[13].uvTransform.x
+    value: 298
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[13].uvTransform.y
+    value: 7734
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[13].spritePosition.x
+    value: 632
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[13].spritePosition.y
+    value: 6074
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[14].m_Name
+    value: HalfOpen
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[14].m_OriginalName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[14].m_Pivot.x
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[14].m_Pivot.y
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[14].m_Alignment
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[14].m_Border.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[14].m_Border.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[14].m_Border.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[14].m_Border.w
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[14].m_CustomData
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[14].m_Rect.x
+    value: 731
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[14].m_Rect.y
+    value: 7734
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[14].m_Rect.width
+    value: 434
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[14].m_Rect.height
+    value: 127
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[14].m_SpriteID
+    value: 578eae2e471f9f34c9624f8cc6285cd8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[14].spriteBone.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[14].spriteOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[14].vertices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[14].spritePhysicsOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[14].indices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[14].edges.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[14].tessellationDetail
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[14].uvTransform.x
+    value: 731
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[14].uvTransform.y
+    value: 7734
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[14].spritePosition.x
+    value: 631
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[14].spritePosition.y
+    value: 6077
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[15].m_Name
+    value: Shock
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[15].m_OriginalName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[15].m_Pivot.x
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[15].m_Pivot.y
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[15].m_Alignment
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[15].m_Border.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[15].m_Border.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[15].m_Border.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[15].m_Border.w
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[15].m_CustomData
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[15].m_Rect.x
+    value: 738
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[15].m_Rect.y
+    value: 7036
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[15].m_Rect.width
+    value: 436
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[15].m_Rect.height
+    value: 139
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[15].m_SpriteID
+    value: 7336501594975ae46a4d8142cfbb12d3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[15].spriteBone.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[15].spriteOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[15].vertices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[15].spritePhysicsOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[15].indices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[15].edges.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[15].tessellationDetail
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[15].uvTransform.x
+    value: 738
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[15].uvTransform.y
+    value: 7036
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[15].spritePosition.x
+    value: 631
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[15].spritePosition.y
+    value: 6065
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[16].m_Name
+    value: Cry
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[16].m_OriginalName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[16].m_Pivot.x
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[16].m_Pivot.y
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[16].m_Alignment
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[16].m_Border.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[16].m_Border.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[16].m_Border.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[16].m_Border.w
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[16].m_CustomData
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[16].m_Rect.x
+    value: 298
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[16].m_Rect.y
+    value: 7561
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[16].m_Rect.width
+    value: 434
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[16].m_Rect.height
+    value: 171
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[16].m_SpriteID
+    value: d5af7bf19e692d84bb4a8d1b05d4d65f
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[16].spriteBone.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[16].spriteOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[16].vertices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[16].spritePhysicsOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[16].indices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[16].edges.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[16].tessellationDetail
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[16].uvTransform.x
+    value: 298
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[16].uvTransform.y
+    value: 7561
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[16].spritePosition.x
+    value: 631
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[16].spritePosition.y
+    value: 6033
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[17].m_Name
+    value: Surprise
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[17].m_OriginalName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[17].m_Pivot.x
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[17].m_Pivot.y
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[17].m_Alignment
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[17].m_Border.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[17].m_Border.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[17].m_Border.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[17].m_Border.w
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[17].m_CustomData
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[17].m_Rect.x
+    value: 734
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[17].m_Rect.y
+    value: 7561
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[17].m_Rect.width
+    value: 434
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[17].m_Rect.height
+    value: 131
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[17].m_SpriteID
+    value: 5687995104101c644b543bd89050f9d0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[17].spriteBone.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[17].spriteOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[17].vertices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[17].spritePhysicsOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[17].indices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[17].edges.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[17].tessellationDetail
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[17].uvTransform.x
+    value: 734
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[17].uvTransform.y
+    value: 7561
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[17].spritePosition.x
+    value: 631
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[17].spritePosition.y
+    value: 6073
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[18].m_Name
+    value: Default
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[18].m_OriginalName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[18].m_Pivot.x
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[18].m_Pivot.y
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[18].m_Alignment
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[18].m_Border.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[18].m_Border.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[18].m_Border.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[18].m_Border.w
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[18].m_CustomData
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[18].m_Rect.x
+    value: 1525
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[18].m_Rect.y
+    value: 3629
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[18].m_Rect.width
+    value: 337
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[18].m_Rect.height
+    value: 34
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[18].m_SpriteID
+    value: 1b8243ac4a3ad1c49a4336ee6febfab7
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[18].spriteBone.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[18].spriteOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[18].vertices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[18].spritePhysicsOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[18].indices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[18].edges.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[18].tessellationDetail
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[18].uvTransform.x
+    value: 1452
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[18].uvTransform.y
+    value: 2427
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[18].spritePosition.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[18].spritePosition.y
+    value: 2984
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[19].m_Name
+    value: VeryAgape
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[19].m_OriginalName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[19].m_Pivot.x
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[19].m_Pivot.y
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[19].m_Alignment
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[19].m_Border.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[19].m_Border.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[19].m_Border.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[19].m_Border.w
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[19].m_CustomData
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[19].m_Rect.x
+    value: 1269
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[19].m_Rect.y
+    value: 6829
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[19].m_Rect.width
+    value: 157
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[19].m_Rect.height
+    value: 128
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[19].m_SpriteID
+    value: 7f210a07ae8c4384abb71c90a203ed9e
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[19].spriteBone.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[19].spriteOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[19].vertices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[19].spritePhysicsOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[19].indices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[19].edges.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[19].tessellationDetail
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[19].uvTransform.x
+    value: 1269
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[19].uvTransform.y
+    value: 6829
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[19].spritePosition.x
+    value: 782
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[19].spritePosition.y
+    value: 5819
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[20].m_Name
+    value: Agape
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[20].m_OriginalName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[20].m_Pivot.x
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[20].m_Pivot.y
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[20].m_Alignment
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[20].m_Border.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[20].m_Border.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[20].m_Border.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[20].m_Border.w
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[20].m_CustomData
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[20].m_Rect.x
+    value: 1176
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[20].m_Rect.y
+    value: 7036
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[20].m_Rect.width
+    value: 162
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[20].m_Rect.height
+    value: 123
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[20].m_SpriteID
+    value: a19ce56d304fd734183a22c793142b0a
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[20].spriteBone.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[20].spriteOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[20].vertices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[20].spritePhysicsOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[20].indices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[20].edges.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[20].tessellationDetail
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[20].uvTransform.x
+    value: 1176
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[20].uvTransform.y
+    value: 7036
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[20].spritePosition.x
+    value: 771
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[20].spritePosition.y
+    value: 5808
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[21].m_Name
+    value: Smile
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[21].m_OriginalName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[21].m_Pivot.x
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[21].m_Pivot.y
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[21].m_Alignment
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[21].m_Border.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[21].m_Border.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[21].m_Border.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[21].m_Border.w
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[21].m_CustomData
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[21].m_Rect.x
+    value: 1167
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[21].m_Rect.y
+    value: 7734
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[21].m_Rect.width
+    value: 152
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[21].m_Rect.height
+    value: 88
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[21].m_SpriteID
+    value: 8a9115b8a97f21342be1aa2dd2906cd6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[21].spriteBone.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[21].spriteOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[21].vertices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[21].spritePhysicsOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[21].indices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[21].edges.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[21].tessellationDetail
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[21].uvTransform.x
+    value: 1167
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[21].uvTransform.y
+    value: 7734
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[21].spritePosition.x
+    value: 775
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[21].spritePosition.y
+    value: 5856
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[22].m_Name
+    value: Sad
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[22].m_OriginalName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[22].m_Pivot.x
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[22].m_Pivot.y
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[22].m_Alignment
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[22].m_Border.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[22].m_Border.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[22].m_Border.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[22].m_Border.w
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[22].m_CustomData
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[22].m_Rect.x
+    value: 322
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[22].m_Rect.y
+    value: 7192
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[22].m_Rect.width
+    value: 314
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[22].m_Rect.height
+    value: 367
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[22].m_SpriteID
+    value: fe5c06abb7ff56643b08388897269645
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[22].spriteBone.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[22].spriteOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[22].vertices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[22].spritePhysicsOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[22].indices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[22].edges.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[22].tessellationDetail
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[22].uvTransform.x
+    value: 322
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[22].uvTransform.y
+    value: 7192
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[22].spritePosition.x
+    value: 632
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[22].spritePosition.y
+    value: 5844
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[23].m_Name
+    value: ExtraSad
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[23].m_OriginalName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[23].m_Pivot.x
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[23].m_Pivot.y
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[23].m_Alignment
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[23].m_Border.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[23].m_Border.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[23].m_Border.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[23].m_Border.w
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[23].m_CustomData
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[23].m_Rect.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[23].m_Rect.y
+    value: 7192
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[23].m_Rect.width
+    value: 319
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[23].m_Rect.height
+    value: 367
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[23].m_SpriteID
+    value: baa44463981f2b54292612dbcfa8de7f
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[23].spriteBone.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[23].spriteOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[23].vertices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[23].spritePhysicsOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[23].indices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[23].edges.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[23].tessellationDetail
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[23].uvTransform.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[23].uvTransform.y
+    value: 7192
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[23].spritePosition.x
+    value: 632
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[23].spritePosition.y
+    value: 5844
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[24].m_Name
+    value: Talk2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[24].m_OriginalName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[24].m_Pivot.x
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[24].m_Pivot.y
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[24].m_Alignment
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[24].m_Border.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[24].m_Border.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[24].m_Border.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[24].m_Border.w
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[24].m_CustomData
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[24].m_Rect.x
+    value: 1170
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[24].m_Rect.y
+    value: 7561
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[24].m_Rect.width
+    value: 191
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[24].m_Rect.height
+    value: 98
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[24].m_SpriteID
+    value: 7b36fcbaa2d383342b0458efbf4ffa0b
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[24].spriteBone.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[24].spriteOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[24].vertices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[24].spritePhysicsOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[24].indices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[24].edges.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[24].tessellationDetail
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[24].uvTransform.x
+    value: 1170
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[24].uvTransform.y
+    value: 7561
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[24].spritePosition.x
+    value: 763
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[24].spritePosition.y
+    value: 5834
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[25].m_Name
+    value: Talk1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[25].m_OriginalName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[25].m_Pivot.x
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[25].m_Pivot.y
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[25].m_Alignment
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[25].m_Border.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[25].m_Border.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[25].m_Border.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[25].m_Border.w
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[25].m_CustomData
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[25].m_Rect.x
+    value: 1176
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[25].m_Rect.y
+    value: 7918
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[25].m_Rect.width
+    value: 193
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[25].m_Rect.height
+    value: 86
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[25].m_SpriteID
+    value: 9efcb519b875bfa4c89c0e9a7250132c
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[25].spriteBone.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[25].spriteOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[25].vertices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[25].spritePhysicsOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[25].indices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[25].edges.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[25].tessellationDetail
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[25].uvTransform.x
+    value: 1176
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[25].uvTransform.y
+    value: 7918
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[25].spritePosition.x
+    value: 761
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[25].spritePosition.y
+    value: 5847
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[26].m_Name
+    value: Default
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[26].m_OriginalName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[26].m_Pivot.x
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[26].m_Pivot.y
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[26].m_Alignment
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[26].m_Border.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[26].m_Border.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[26].m_Border.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[26].m_Border.w
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[26].m_CustomData
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[26].m_Rect.x
+    value: 1525
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[26].m_Rect.y
+    value: 3629
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[26].m_Rect.width
+    value: 337
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[26].m_Rect.height
+    value: 34
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[26].m_SpriteID
+    value: 1b8243ac4a3ad1c49a4336ee6febfab7
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[26].spriteBone.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[26].spriteOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[26].vertices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[26].spritePhysicsOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[26].indices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[26].edges.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[26].tessellationDetail
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[26].uvTransform.x
+    value: 1452
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[26].uvTransform.y
+    value: 2427
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[26].spritePosition.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[26].spritePosition.y
+    value: 2984
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[27].m_Name
+    value: GirlPose
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[27].m_OriginalName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[27].m_Pivot.x
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[27].m_Pivot.y
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[27].m_Alignment
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[27].m_Border.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[27].m_Border.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[27].m_Border.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[27].m_Border.w
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[27].m_CustomData
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[27].m_Rect.x
+    value: 1452
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[27].m_Rect.y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[27].m_Rect.width
+    value: 1621
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[27].m_Rect.height
+    value: 2424
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[27].m_SpriteID
+    value: 46b0fdfdb97270b44b752eeb6dd788a8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[27].spriteBone.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[27].spriteOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[27].vertices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[27].spritePhysicsOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[27].indices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[27].edges.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[27].tessellationDetail
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[27].uvTransform.x
+    value: 1452
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[27].uvTransform.y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[27].spritePosition.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[27].spritePosition.y
+    value: 3047
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[28].m_Name
+    value: Default
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[28].m_OriginalName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[28].m_Pivot.x
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[28].m_Pivot.y
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[28].m_Alignment
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[28].m_Border.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[28].m_Border.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[28].m_Border.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[28].m_Border.w
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[28].m_CustomData
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[28].m_Rect.x
+    value: 1525
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[28].m_Rect.y
+    value: 3629
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[28].m_Rect.width
+    value: 337
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[28].m_Rect.height
+    value: 34
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[28].m_SpriteID
+    value: 1b8243ac4a3ad1c49a4336ee6febfab7
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[28].spriteBone.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[28].spriteOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[28].vertices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[28].spritePhysicsOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[28].indices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[28].edges.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[28].tessellationDetail
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[28].uvTransform.x
+    value: 1452
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[28].uvTransform.y
+    value: 2427
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[28].spritePosition.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[28].spritePosition.y
+    value: 2984
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[29].m_Name
+    value: Base
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[29].m_OriginalName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[29].m_Pivot.x
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[29].m_Pivot.y
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[29].m_Alignment
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[29].m_Border.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[29].m_Border.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[29].m_Border.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[29].m_Border.w
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[29].m_CustomData
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[29].m_Rect.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[29].m_Rect.y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[29].m_Rect.width
+    value: 1449
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[29].m_Rect.height
+    value: 6826
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[29].m_SpriteID
+    value: f19c662ee1be7e54785bab3b2e0bfe5a
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[29].spriteBone.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[29].spriteOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[29].vertices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[29].spritePhysicsOutline.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[29].indices.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[29].edges.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[29].tessellationDetail
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[29].uvTransform.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[29].uvTransform.y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[29].spritePosition.x
+    value: 77
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayeredSpriteImportData.Array.data[29].spritePosition.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SpriteImportData.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_RigSpriteImportData.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SharedRigSpriteImportData.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_MosaicSpriteImportData.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SharedRigCharacterData.bones.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SharedRigCharacterData.parts.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SharedRigCharacterData.dimension.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SharedRigCharacterData.dimension.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SharedRigCharacterData.characterGroups.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SharedRigCharacterData.pivot.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SharedRigCharacterData.pivot.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SharedRigCharacterData.boneReadOnly
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CharacterData.bones.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CharacterData.parts.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CharacterData.dimension.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CharacterData.dimension.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CharacterData.characterGroups.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CharacterData.pivot.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CharacterData.pivot.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CharacterData.boneReadOnly
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PlatformSettings.Array.size
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PlatformSettings.Array.data[0].m_Name
+    value: DefaultTexturePlatform
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PlatformSettings.Array.data[0].m_Overridden
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PlatformSettings.Array.data[0].m_IgnorePlatformSupport
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PlatformSettings.Array.data[0].m_MaxTextureSize
+    value: 4096
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PlatformSettings.Array.data[0].m_ResizeAlgorithm
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PlatformSettings.Array.data[0].m_TextureFormat
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PlatformSettings.Array.data[0].m_TextureCompression
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PlatformSettings.Array.data[0].m_CompressionQuality
+    value: 50
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PlatformSettings.Array.data[0].m_ForceMaximumCompressionQuality_BC6H_BC7
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PlatformSettings.Array.data[0].m_CrunchedCompression
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PlatformSettings.Array.data[0].m_AllowsAlphaSplitting
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PlatformSettings.Array.data[0].m_AndroidETC2FallbackOverride
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PlatformSettings.Array.data[1].m_Name
+    value: Standalone
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PlatformSettings.Array.data[1].m_Overridden
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PlatformSettings.Array.data[1].m_IgnorePlatformSupport
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PlatformSettings.Array.data[1].m_MaxTextureSize
+    value: 2048
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PlatformSettings.Array.data[1].m_ResizeAlgorithm
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PlatformSettings.Array.data[1].m_TextureFormat
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PlatformSettings.Array.data[1].m_TextureCompression
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PlatformSettings.Array.data[1].m_CompressionQuality
+    value: 50
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PlatformSettings.Array.data[1].m_ForceMaximumCompressionQuality_BC6H_BC7
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PlatformSettings.Array.data[1].m_CrunchedCompression
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PlatformSettings.Array.data[1].m_AllowsAlphaSplitting
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PlatformSettings.Array.data[1].m_AndroidETC2FallbackOverride
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_MosaicLayers
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CharacterMode
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_DocumentPivot.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_DocumentPivot.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_DocumentAlignment
+    value: 7
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_ImportHiddenLayers
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayerMappingOption
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_GeneratePhysicsShape
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PaperDollMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_KeepDupilcateSpriteName
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Padding
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SpriteSizeExpand
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SkeletonAssetReferenceID
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Pipeline
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PipelineVersion
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SpriteCategoryList.m_Categories.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SpritePackingTag
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_ResliceFromLayer
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PSDLayerImportSetting.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.size
+    value: 36
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[0].m_Name
+    value: RaburaPrefab
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[0].m_SpriteName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[0].m_IsGroup
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[0].m_ParentIndex
+    value: -1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[0].m_SpriteID
+    value: b5fe0cb0ccd7a5541bc77fbe402ea4b0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[0].m_LayerID
+    value: 43
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[0].m_MosaicPosition.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[0].m_MosaicPosition.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[0].m_Flatten
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[0].m_IsImported
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[0].m_IsVisible
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[1].m_Name
+    value: Effects
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[1].m_SpriteName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[1].m_IsGroup
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[1].m_ParentIndex
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[1].m_SpriteID
+    value: 7bbaa661b387d6e4292bd6fa6beacb2e
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[1].m_LayerID
+    value: 42
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[1].m_MosaicPosition.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[1].m_MosaicPosition.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[1].m_Flatten
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[1].m_IsImported
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[1].m_IsVisible
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[2].m_Name
+    value: None
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[2].m_SpriteName
+    value: None
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[2].m_IsGroup
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[2].m_ParentIndex
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[2].m_SpriteID
+    value: 07c18e17779bbef4da63067bc0cb73b1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[2].m_LayerID
+    value: 41
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[2].m_MosaicPosition.x
+    value: 1371
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[2].m_MosaicPosition.y
+    value: 8018
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[2].m_Flatten
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[2].m_IsImported
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[2].m_IsVisible
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[3].m_Name
+    value: TearsSmall
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[3].m_SpriteName
+    value: TearsSmall
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[3].m_IsGroup
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[3].m_ParentIndex
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[3].m_SpriteID
+    value: 695e18916820e8d4d85e713b3e14d383
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[3].m_LayerID
+    value: 40
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[3].m_MosaicPosition.x
+    value: 366
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[3].m_MosaicPosition.y
+    value: 6829
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[3].m_Flatten
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[3].m_IsImported
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[3].m_IsVisible
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[4].m_Name
+    value: SuperTears
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[4].m_SpriteName
+    value: SuperTears
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[4].m_IsGroup
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[4].m_ParentIndex
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[4].m_SpriteID
+    value: 63ddc8e3f4edcaf4488a65c883c7e70d
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[4].m_LayerID
+    value: 39
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[4].m_MosaicPosition.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[4].m_MosaicPosition.y
+    value: 6829
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[4].m_Flatten
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[4].m_IsImported
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[4].m_IsVisible
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[5].m_Name
+    value: BlushAndSweat
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[5].m_SpriteName
+    value: BlushAndSweat
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[5].m_IsGroup
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[5].m_ParentIndex
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[5].m_SpriteID
+    value: 8ae0db56dd6e3f84cbfacbb03f70259a
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[5].m_LayerID
+    value: 38
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[5].m_MosaicPosition.x
+    value: 738
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[5].m_MosaicPosition.y
+    value: 6829
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[5].m_Flatten
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[5].m_IsImported
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[5].m_IsVisible
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[6].m_Name
+    value: Blush
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[6].m_SpriteName
+    value: Blush
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[6].m_IsGroup
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[6].m_ParentIndex
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[6].m_SpriteID
+    value: c0f505d371c452442b6debd5573972ca
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[6].m_LayerID
+    value: 37
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[6].m_MosaicPosition.x
+    value: 638
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[6].m_MosaicPosition.y
+    value: 7192
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[6].m_Flatten
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[6].m_IsImported
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[6].m_IsVisible
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[7].m_Name
+    value: Sweat
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[7].m_SpriteName
+    value: Sweat
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[7].m_IsGroup
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[7].m_ParentIndex
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[7].m_SpriteID
+    value: 8f5bf54d024a8f84d9aa5546f4385b9c
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[7].m_LayerID
+    value: 36
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[7].m_MosaicPosition.x
+    value: 1371
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[7].m_MosaicPosition.y
+    value: 7918
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[7].m_Flatten
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[7].m_IsImported
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[7].m_IsVisible
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[8].m_Name
+    value: Brows
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[8].m_SpriteName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[8].m_IsGroup
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[8].m_ParentIndex
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[8].m_SpriteID
+    value: abeb1340618eb384497c86d002b39ff3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[8].m_LayerID
+    value: 34
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[8].m_MosaicPosition.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[8].m_MosaicPosition.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[8].m_Flatten
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[8].m_IsImported
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[8].m_IsVisible
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[9].m_Name
+    value: VerySad
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[9].m_SpriteName
+    value: VerySad
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[9].m_IsGroup
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[9].m_ParentIndex
+    value: 8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[9].m_SpriteID
+    value: 70719474dadccc344b6ab8472a44ca55
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[9].m_LayerID
+    value: 33
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[9].m_MosaicPosition.x
+    value: 1074
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[9].m_MosaicPosition.y
+    value: 7467
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[9].m_Flatten
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[9].m_IsImported
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[9].m_IsVisible
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[10].m_Name
+    value: SadBrow
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[10].m_SpriteName
+    value: SadBrow
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[10].m_IsGroup
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[10].m_ParentIndex
+    value: 8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[10].m_SpriteID
+    value: fbaf7454dc13b1d40a16c90c40472a7e
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[10].m_LayerID
+    value: 32
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[10].m_MosaicPosition.x
+    value: 866
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[10].m_MosaicPosition.y
+    value: 7918
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[10].m_Flatten
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[10].m_IsImported
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[10].m_IsVisible
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[11].m_Name
+    value: Confused
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[11].m_SpriteName
+    value: Confused
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[11].m_IsGroup
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[11].m_ParentIndex
+    value: 8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[11].m_SpriteID
+    value: 4d2cbb071b72ace469f75a8daa0d9785
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[11].m_LayerID
+    value: 31
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[11].m_MosaicPosition.x
+    value: 731
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[11].m_MosaicPosition.y
+    value: 7863
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[11].m_Flatten
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[11].m_IsImported
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[11].m_IsVisible
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[12].m_Name
+    value: Angry
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[12].m_SpriteName
+    value: Angry
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[12].m_IsGroup
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[12].m_ParentIndex
+    value: 8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[12].m_SpriteID
+    value: 55635cee02096d6479e4b5a6b3302165
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[12].m_LayerID
+    value: 30
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[12].m_MosaicPosition.x
+    value: 1074
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[12].m_MosaicPosition.y
+    value: 7399
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[12].m_Flatten
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[12].m_IsImported
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[12].m_IsVisible
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[13].m_Name
+    value: Default
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[13].m_SpriteName
+    value: Default
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[13].m_IsGroup
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[13].m_ParentIndex
+    value: 8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[13].m_SpriteID
+    value: 1b8243ac4a3ad1c49a4336ee6febfab7
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[13].m_LayerID
+    value: 29
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[13].m_MosaicPosition.x
+    value: 1057
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[13].m_MosaicPosition.y
+    value: 7863
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[13].m_Flatten
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[13].m_IsImported
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[13].m_IsVisible
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[14].m_Name
+    value: Eyes
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[14].m_SpriteName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[14].m_IsGroup
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[14].m_ParentIndex
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[14].m_SpriteID
+    value: 406e7502499dc344aaeaac7f02b953fc
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[14].m_LayerID
+    value: 27
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[14].m_MosaicPosition.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[14].m_MosaicPosition.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[14].m_Flatten
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[14].m_IsImported
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[14].m_IsVisible
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[15].m_Name
+    value: SideEye
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[15].m_SpriteName
+    value: SideEye
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[15].m_IsGroup
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[15].m_ParentIndex
+    value: 14
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[15].m_SpriteID
+    value: 385f85ae7269d1246aaf5646a14b9f8f
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[15].m_LayerID
+    value: 26
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[15].m_MosaicPosition.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[15].m_MosaicPosition.y
+    value: 7918
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[15].m_Flatten
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[15].m_IsImported
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[15].m_IsVisible
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[16].m_Name
+    value: Pleased
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[16].m_SpriteName
+    value: Pleased
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[16].m_IsGroup
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[16].m_ParentIndex
+    value: 14
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[16].m_SpriteID
+    value: d483b7832d9fc984f957579abf70dd53
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[16].m_LayerID
+    value: 25
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[16].m_MosaicPosition.x
+    value: 433
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[16].m_MosaicPosition.y
+    value: 7918
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[16].m_Flatten
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[16].m_IsImported
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[16].m_IsVisible
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[17].m_Name
+    value: Closed
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[17].m_SpriteName
+    value: Closed
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[17].m_IsGroup
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[17].m_ParentIndex
+    value: 14
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[17].m_SpriteID
+    value: 60589012e0db55d4eb2c62632de15de1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[17].m_LayerID
+    value: 24
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[17].m_MosaicPosition.x
+    value: 298
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[17].m_MosaicPosition.y
+    value: 7734
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[17].m_Flatten
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[17].m_IsImported
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[17].m_IsVisible
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[18].m_Name
+    value: HalfOpen
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[18].m_SpriteName
+    value: HalfOpen
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[18].m_IsGroup
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[18].m_ParentIndex
+    value: 14
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[18].m_SpriteID
+    value: 578eae2e471f9f34c9624f8cc6285cd8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[18].m_LayerID
+    value: 23
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[18].m_MosaicPosition.x
+    value: 731
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[18].m_MosaicPosition.y
+    value: 7734
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[18].m_Flatten
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[18].m_IsImported
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[18].m_IsVisible
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[19].m_Name
+    value: Shock
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[19].m_SpriteName
+    value: Shock
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[19].m_IsGroup
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[19].m_ParentIndex
+    value: 14
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[19].m_SpriteID
+    value: 7336501594975ae46a4d8142cfbb12d3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[19].m_LayerID
+    value: 22
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[19].m_MosaicPosition.x
+    value: 738
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[19].m_MosaicPosition.y
+    value: 7036
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[19].m_Flatten
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[19].m_IsImported
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[19].m_IsVisible
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[20].m_Name
+    value: Cry
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[20].m_SpriteName
+    value: Cry
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[20].m_IsGroup
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[20].m_ParentIndex
+    value: 14
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[20].m_SpriteID
+    value: d5af7bf19e692d84bb4a8d1b05d4d65f
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[20].m_LayerID
+    value: 21
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[20].m_MosaicPosition.x
+    value: 298
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[20].m_MosaicPosition.y
+    value: 7561
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[20].m_Flatten
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[20].m_IsImported
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[20].m_IsVisible
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[21].m_Name
+    value: Surprise
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[21].m_SpriteName
+    value: Surprise
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[21].m_IsGroup
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[21].m_ParentIndex
+    value: 14
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[21].m_SpriteID
+    value: 5687995104101c644b543bd89050f9d0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[21].m_LayerID
+    value: 20
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[21].m_MosaicPosition.x
+    value: 734
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[21].m_MosaicPosition.y
+    value: 7561
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[21].m_Flatten
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[21].m_IsImported
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[21].m_IsVisible
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[22].m_Name
+    value: Default
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[22].m_SpriteName
+    value: Default
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[22].m_IsGroup
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[22].m_ParentIndex
+    value: 14
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[22].m_SpriteID
+    value: 1b8243ac4a3ad1c49a4336ee6febfab7
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[22].m_LayerID
+    value: 19
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[22].m_MosaicPosition.x
+    value: 638
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[22].m_MosaicPosition.y
+    value: 7399
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[22].m_Flatten
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[22].m_IsImported
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[22].m_IsVisible
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[23].m_Name
+    value: Mouth
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[23].m_SpriteName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[23].m_IsGroup
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[23].m_ParentIndex
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[23].m_SpriteID
+    value: 17aa9488b232cc149b44b2e2770153f6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[23].m_LayerID
+    value: 17
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[23].m_MosaicPosition.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[23].m_MosaicPosition.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[23].m_Flatten
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[23].m_IsImported
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[23].m_IsVisible
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[24].m_Name
+    value: VeryAgape
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[24].m_SpriteName
+    value: VeryAgape
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[24].m_IsGroup
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[24].m_ParentIndex
+    value: 23
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[24].m_SpriteID
+    value: 7f210a07ae8c4384abb71c90a203ed9e
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[24].m_LayerID
+    value: 16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[24].m_MosaicPosition.x
+    value: 1269
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[24].m_MosaicPosition.y
+    value: 6829
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[24].m_Flatten
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[24].m_IsImported
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[24].m_IsVisible
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[25].m_Name
+    value: Agape
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[25].m_SpriteName
+    value: Agape
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[25].m_IsGroup
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[25].m_ParentIndex
+    value: 23
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[25].m_SpriteID
+    value: a19ce56d304fd734183a22c793142b0a
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[25].m_LayerID
+    value: 15
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[25].m_MosaicPosition.x
+    value: 1176
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[25].m_MosaicPosition.y
+    value: 7036
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[25].m_Flatten
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[25].m_IsImported
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[25].m_IsVisible
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[26].m_Name
+    value: Smile
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[26].m_SpriteName
+    value: Smile
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[26].m_IsGroup
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[26].m_ParentIndex
+    value: 23
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[26].m_SpriteID
+    value: 8a9115b8a97f21342be1aa2dd2906cd6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[26].m_LayerID
+    value: 14
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[26].m_MosaicPosition.x
+    value: 1167
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[26].m_MosaicPosition.y
+    value: 7734
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[26].m_Flatten
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[26].m_IsImported
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[26].m_IsVisible
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[27].m_Name
+    value: Sad
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[27].m_SpriteName
+    value: Sad
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[27].m_IsGroup
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[27].m_ParentIndex
+    value: 23
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[27].m_SpriteID
+    value: fe5c06abb7ff56643b08388897269645
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[27].m_LayerID
+    value: 13
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[27].m_MosaicPosition.x
+    value: 322
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[27].m_MosaicPosition.y
+    value: 7192
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[27].m_Flatten
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[27].m_IsImported
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[27].m_IsVisible
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[28].m_Name
+    value: ExtraSad
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[28].m_SpriteName
+    value: ExtraSad
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[28].m_IsGroup
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[28].m_ParentIndex
+    value: 23
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[28].m_SpriteID
+    value: baa44463981f2b54292612dbcfa8de7f
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[28].m_LayerID
+    value: 12
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[28].m_MosaicPosition.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[28].m_MosaicPosition.y
+    value: 7192
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[28].m_Flatten
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[28].m_IsImported
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[28].m_IsVisible
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[29].m_Name
+    value: Talk2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[29].m_SpriteName
+    value: Talk2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[29].m_IsGroup
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[29].m_ParentIndex
+    value: 23
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[29].m_SpriteID
+    value: 7b36fcbaa2d383342b0458efbf4ffa0b
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[29].m_LayerID
+    value: 11
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[29].m_MosaicPosition.x
+    value: 1170
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[29].m_MosaicPosition.y
+    value: 7561
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[29].m_Flatten
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[29].m_IsImported
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[29].m_IsVisible
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[30].m_Name
+    value: Talk1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[30].m_SpriteName
+    value: Talk1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[30].m_IsGroup
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[30].m_ParentIndex
+    value: 23
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[30].m_SpriteID
+    value: 9efcb519b875bfa4c89c0e9a7250132c
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[30].m_LayerID
+    value: 10
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[30].m_MosaicPosition.x
+    value: 1176
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[30].m_MosaicPosition.y
+    value: 7918
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[30].m_Flatten
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[30].m_IsImported
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[30].m_IsVisible
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[31].m_Name
+    value: Default
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[31].m_SpriteName
+    value: Default
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[31].m_IsGroup
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[31].m_ParentIndex
+    value: 23
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[31].m_SpriteID
+    value: 1b8243ac4a3ad1c49a4336ee6febfab7
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[31].m_LayerID
+    value: 9
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[31].m_MosaicPosition.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[31].m_MosaicPosition.y
+    value: 7561
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[31].m_Flatten
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[31].m_IsImported
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[31].m_IsVisible
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[32].m_Name
+    value: ArmPos
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[32].m_SpriteName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[32].m_IsGroup
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[32].m_ParentIndex
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[32].m_SpriteID
+    value: ad76460983e5c2f45a0387e47e453ce7
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[32].m_LayerID
+    value: 7
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[32].m_MosaicPosition.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[32].m_MosaicPosition.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[32].m_Flatten
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[32].m_IsImported
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[32].m_IsVisible
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[33].m_Name
+    value: GirlPose
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[33].m_SpriteName
+    value: GirlPose
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[33].m_IsGroup
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[33].m_ParentIndex
+    value: 32
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[33].m_SpriteID
+    value: 46b0fdfdb97270b44b752eeb6dd788a8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[33].m_LayerID
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[33].m_MosaicPosition.x
+    value: 1452
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[33].m_MosaicPosition.y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[33].m_Flatten
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[33].m_IsImported
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[33].m_IsVisible
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[34].m_Name
+    value: Default
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[34].m_SpriteName
+    value: Default
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[34].m_IsGroup
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[34].m_ParentIndex
+    value: 32
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[34].m_SpriteID
+    value: 1b8243ac4a3ad1c49a4336ee6febfab7
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[34].m_LayerID
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[34].m_MosaicPosition.x
+    value: 1452
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[34].m_MosaicPosition.y
+    value: 2427
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[34].m_Flatten
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[34].m_IsImported
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[34].m_IsVisible
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[35].m_Name
+    value: Base
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[35].m_SpriteName
+    value: Base
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[35].m_IsGroup
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[35].m_ParentIndex
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[35].m_SpriteID
+    value: f19c662ee1be7e54785bab3b2e0bfe5a
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[35].m_LayerID
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[35].m_MosaicPosition.x
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[35].m_MosaicPosition.y
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[35].m_Flatten
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[35].m_IsImported
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PsdLayers.Array.data[35].m_IsVisible
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_MosaicPSDLayers.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_RigPSDLayers.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SharedRigPSDLayers.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_ImportFileNodeState
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PlatformSettingsDirtyTick
+    value: 638685904008557880
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SpriteSizeExpandChanged
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_GenerateGOHierarchy
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_TextureAssetName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PrefabAssetName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SpriteLibAssetName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SkeletonAssetName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SecondarySpriteTextures.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  m_ExcludedProperties: []
+  m_CoupledType:
+    m_NativeTypeID: 0
+    m_ManagedTypePPtr: {fileID: 0}
+    m_ManagedTypeFallback: 
+  m_CoupledProperties: []

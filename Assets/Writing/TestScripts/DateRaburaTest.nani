@@ -1,0 +1,25 @@
+@back TESTTEST id:TestBG1
+@char Date.Normal
+Date: Ungh... My head...<br>Where am I...?
+@char Rabura.Normal
+Rabura: .[wait .3].[wait .3].
+@char Rabura.Anxious
+Rabura: I...[wait .3] believe that we're test subjects, Date.
+@wait .5
+Date: Oh.[wait .3] In that case, why are we-
+@char Date.Grimace
+Date: Wait.<br>Did you say "test subjects?"<br>As in...
+@char Rabura.Fear
+Rabura: As in we're to be tested on?<br>Yes.
+@char Date.Groan
+Date: Well, I knew <i>that</i> much.<br>Anyway, what are they test-
+@hideChars time:1
+Narrator: The characters are hidden now, and thus are not visible in the printer.
+@hidePrinter
+@wait .5
+@wait .3
+@show Date
+@char Date.Grin
+Date: See? And I'm visible again, as is my portrait in the printer.
+@wait 1
+@stop
