@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 387d4092e12a88243bf0ef2ab5f0ef71
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Runtime/Audio/AudioManagerExtensions.cs
+  uploadId: 733088

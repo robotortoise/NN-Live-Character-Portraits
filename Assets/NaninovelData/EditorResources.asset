@@ -13,42 +13,42 @@ MonoBehaviour:
   m_Name: EditorResources
   m_EditorClassIdentifier: 
   resourceCategories:
-  - Id: TextPrinters/89e7f85c-f623-4556-a246-3efa9ec56a9c
+  - Id: TextPrinters/41915a85-69cb-410e-9927-802193863295
     Resources:
     - name: Dialogue
       pathPrefix: TextPrinters
       guid: 1bc08ccd31adff6439e97161aa6e1d8b
-  - Id: TextPrinters/3e89b0eb-6e26-4aff-8171-ed36387be7ab
+  - Id: TextPrinters/ec6f7881-75f2-4f77-bd1d-cadcf2d887bc
     Resources:
     - name: Fullscreen
       pathPrefix: TextPrinters
       guid: c87cebd3f0d4f174789cd351ce9591c4
-  - Id: TextPrinters/ef1814e1-118e-48a1-8d82-12b2fa6d24a5
+  - Id: TextPrinters/d0f011fc-b8c8-4661-8ec2-690e630c7508
     Resources:
     - name: Wide
       pathPrefix: TextPrinters
       guid: 781828b806deb1e4cbf50ef9de41da10
-  - Id: TextPrinters/e31db79b-e051-4ee7-8ee5-41cc2747b24d
+  - Id: TextPrinters/ecdadb6b-3f12-473b-8c1c-10a38d423bfa
     Resources:
     - name: Chat
       pathPrefix: TextPrinters
       guid: 6f9836a3c4f777741b1962979d97e485
-  - Id: TextPrinters/10f49e12-31f2-4abc-a4e8-b31c306a5b17
+  - Id: TextPrinters/4f204877-7b1b-4d74-8587-06324fc9f3ef
     Resources:
     - name: Bubble
       pathPrefix: TextPrinters
       guid: b47d9659b2be5ee4e95a776f213c9d4b
-  - Id: ChoiceHandlers/511dfa7d-e652-42ae-a738-008fb27b829e
+  - Id: ChoiceHandlers/6f459aed-6286-4d89-bb8e-a7ba0d871e69
     Resources:
     - name: ButtonList
       pathPrefix: ChoiceHandlers
       guid: 1f6aa29000e839c409e6a9c0704adc96
-  - Id: ChoiceHandlers/d10d13f4-3698-40b0-9b3e-8287441545d2
+  - Id: ChoiceHandlers/609ee747-ea65-4205-a6df-3fc9c5d38f45
     Resources:
     - name: ButtonArea
       pathPrefix: ChoiceHandlers
       guid: 4fa6d62f894ae6e4698bfa8af59e7942
-  - Id: ChoiceHandlers/d6632805-e064-47aa-95c7-657c3dd6e99e
+  - Id: ChoiceHandlers/1c60d5d5-894a-417f-bb02-485192840971
     Resources:
     - name: ChatReply
       pathPrefix: ChoiceHandlers
@@ -154,16 +154,21 @@ MonoBehaviour:
     - name: Date
       pathPrefix: Characters
       guid: a74ef49c1b03cdf4aa285ba884fb9ecd
-  - Id: Scripts
+  - Id: Characters/83947037-0b74-4e0f-8e8b-657a8387e598
     Resources:
-    - name: DateRaburaTest
-      pathPrefix: Scripts
-      guid: f5fa6459c99847e49b627d93b71ddb16
+    - name: BearyTheBear
+      pathPrefix: Characters
+      guid: 16f59a40c3ace434fb45e66b2f71536a
   - Id: TextPrinters/b9647845-e77f-49d1-a308-0dc5d2bce7b4
     Resources:
     - name: WidePortraitPrinter
       pathPrefix: TextPrinters
       guid: 575e1ab20e78a3f4f9406d94a146a020
+  - Id: Scripts
+    Resources:
+    - name: DateRaburaTest
+      pathPrefix: Scripts
+      guid: f5fa6459c99847e49b627d93b71ddb16
   - Id: Backgrounds/bb19c11b-0eff-4aa6-b17e-75aa83640107
     Resources:
     - name: TESTTEST

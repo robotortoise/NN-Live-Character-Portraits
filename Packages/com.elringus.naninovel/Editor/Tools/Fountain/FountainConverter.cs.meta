@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: a9e748dcda8f49b7a899f35845c80048
+timeCreated: 1660322025
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Editor/Tools/Fountain/FountainConverter.cs
+  uploadId: 733088

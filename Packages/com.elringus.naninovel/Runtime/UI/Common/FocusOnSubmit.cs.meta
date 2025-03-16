@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 84b7a61a537a4548a251f150b91070e2
+timeCreated: 1692344042
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Runtime/UI/Common/FocusOnSubmit.cs
+  uploadId: 733088

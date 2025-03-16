@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6f9836a3c4f777741b1962979d97e485
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Prefabs/TextPrinters/Chat.prefab
+  uploadId: 733088

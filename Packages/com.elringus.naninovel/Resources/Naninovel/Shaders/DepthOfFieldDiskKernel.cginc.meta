@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c76f3df06db3fa044b4bc486e31ebf50
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Resources/Naninovel/Shaders/DepthOfFieldDiskKernel.cginc
+  uploadId: 733088

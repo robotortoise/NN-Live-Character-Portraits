@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 927f6d32df5cf1d449c0c16a59b3cfd4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Prefabs/DefaultUI/SettingsSlider.prefab
+  uploadId: 733088

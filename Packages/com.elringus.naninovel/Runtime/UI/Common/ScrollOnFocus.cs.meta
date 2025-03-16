@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 256a185b2d194d6fa150bdf090fc617c
+timeCreated: 1692208030
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Runtime/UI/Common/ScrollOnFocus.cs
+  uploadId: 733088

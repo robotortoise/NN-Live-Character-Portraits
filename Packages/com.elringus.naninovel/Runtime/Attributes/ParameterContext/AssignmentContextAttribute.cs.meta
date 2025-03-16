@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 129aa3ba2c36463e9c4b4a409e28f4fc
+timeCreated: 1719326297
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Runtime/Attributes/ParameterContext/AssignmentContextAttribute.cs
+  uploadId: 733088

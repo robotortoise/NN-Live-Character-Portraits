@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 299f0e1d2253c7f42906a1f24d2d2eb0
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Editor/Elringus.Naninovel.Editor.asmdef
+  uploadId: 733088

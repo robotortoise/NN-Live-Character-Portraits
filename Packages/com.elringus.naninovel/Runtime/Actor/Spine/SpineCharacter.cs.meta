@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 426a45dd8f81a424bb1ff5ca6bca9f04
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Runtime/Actor/Spine/SpineCharacter.cs
+  uploadId: 733088

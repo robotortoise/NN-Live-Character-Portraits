@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9921449ee336d7447993f3fe9bfd51e1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Runtime/State/PlayerPrefsGlobalStateSlotManager.cs
+  uploadId: 733088

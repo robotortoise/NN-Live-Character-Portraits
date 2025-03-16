@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 53c55be1ea2534a4d97e9a3af2fc42e0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Prefabs/TextPrinters/PrinterSizesDefault.asset
+  uploadId: 733088

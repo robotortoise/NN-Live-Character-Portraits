@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 987fa0e5928185a4a9f7afd3ea4810b8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Materials/SunShafts.mat
+  uploadId: 733088

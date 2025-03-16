@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: ea3ca33a57274bc5bad2f61ee7cfb9da
+timeCreated: 1615395040
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Runtime/Actor/Common/Character/CharacterLipSyncer.cs
+  uploadId: 733088

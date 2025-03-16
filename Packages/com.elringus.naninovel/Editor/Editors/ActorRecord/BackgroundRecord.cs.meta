@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 90727e81a8ee41e9bf253159544df4b0
+timeCreated: 1623705215
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Editor/Editors/ActorRecord/BackgroundRecord.cs
+  uploadId: 733088

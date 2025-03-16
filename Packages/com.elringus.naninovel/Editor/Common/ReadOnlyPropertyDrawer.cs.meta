@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 29dd494ea059beb40a1c3832aa2e4614
+timeCreated: 1498744332
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Editor/Common/ReadOnlyPropertyDrawer.cs
+  uploadId: 733088

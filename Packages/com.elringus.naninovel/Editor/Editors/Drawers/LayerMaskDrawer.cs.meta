@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 211302f1ac2f41ebbd637f05bc6e0ed4
+timeCreated: 1721564799
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Editor/Editors/Drawers/LayerMaskDrawer.cs
+  uploadId: 733088

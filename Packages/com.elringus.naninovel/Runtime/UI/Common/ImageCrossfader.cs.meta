@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: effe245b2aa04a0ba7c72718d6ddd0f6
+timeCreated: 1611332824
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Runtime/UI/Common/ImageCrossfader.cs
+  uploadId: 733088

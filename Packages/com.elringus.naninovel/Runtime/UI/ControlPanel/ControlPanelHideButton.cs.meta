@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a2d7b0a4e2006624ba84a71c8c43cd3d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Runtime/UI/ControlPanel/ControlPanelHideButton.cs
+  uploadId: 733088

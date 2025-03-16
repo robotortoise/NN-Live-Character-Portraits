@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 6b4a8a53937941259551e28ea90f2c08
+timeCreated: 1697501618
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Editor/Bridging/JsonSerializer.cs
+  uploadId: 733088

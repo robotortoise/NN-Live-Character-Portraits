@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f46a25fde30a66442b80a3c958f219c9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Fonts/Inter-Regular SDF Underlay White.mat
+  uploadId: 733088

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 3d3a12b773eb4ef5a4f5aeec6948c084
+timeCreated: 1669057385
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Runtime/Command/Spawn/SpawnSnow.cs
+  uploadId: 733088

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 8267c16dff284309bfc1ae57a79fdcc3
+timeCreated: 1677604194
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Runtime/UI/TextReveal/Effects/RevealClipper.cs
+  uploadId: 733088

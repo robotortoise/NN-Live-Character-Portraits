@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 58f4e4280c1d479c9da3adb7f4a2c9ae
+timeCreated: 1677236404
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Runtime/UI/TextReveal/RevealableText.cs
+  uploadId: 733088

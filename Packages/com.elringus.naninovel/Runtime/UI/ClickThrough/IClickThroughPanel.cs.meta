@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 3b85aa7511834d17b4a0422f2cb53de5
+timeCreated: 1661697515
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Runtime/UI/ClickThrough/IClickThroughPanel.cs
+  uploadId: 733088

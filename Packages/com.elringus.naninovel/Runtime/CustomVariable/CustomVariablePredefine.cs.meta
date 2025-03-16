@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 7bf4de09c6ab484a8e738899e5e1bfd7
+timeCreated: 1721309793
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Runtime/CustomVariable/CustomVariablePredefine.cs
+  uploadId: 733088

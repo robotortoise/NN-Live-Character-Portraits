@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 678f3619a9114e56bcb8234c3411c4cc
+timeCreated: 1724086110
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Editor/Build/AddressableLabeler.cs
+  uploadId: 733088

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 8c5d380e71ab48a3812e2de09a78ebb1
+timeCreated: 1654812140
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Runtime/Command/Spawn/DestroyAllSpawned.cs
+  uploadId: 733088

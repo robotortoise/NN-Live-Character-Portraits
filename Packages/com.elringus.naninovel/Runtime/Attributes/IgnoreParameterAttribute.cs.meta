@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 87653ce87a9f4d6f8c291ae10ffc0fe8
+timeCreated: 1713180751
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Runtime/Attributes/IgnoreParameterAttribute.cs
+  uploadId: 733088

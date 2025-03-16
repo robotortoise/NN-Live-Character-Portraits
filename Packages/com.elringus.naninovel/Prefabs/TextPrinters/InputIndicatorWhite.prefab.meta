@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b9b3fefeea6c9f74ca0e1a2f9e4dfb13
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Prefabs/TextPrinters/InputIndicatorWhite.prefab
+  uploadId: 733088

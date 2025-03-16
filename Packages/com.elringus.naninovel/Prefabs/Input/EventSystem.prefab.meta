@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1f38650d27890cf4f8fd139fe3168a7b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Prefabs/Input/EventSystem.prefab
+  uploadId: 733088

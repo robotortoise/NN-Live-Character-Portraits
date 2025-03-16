@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7407baa66e4fb054c86521d37964bbf0
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Plugins/Naninovel.Common.xml
+  uploadId: 733088

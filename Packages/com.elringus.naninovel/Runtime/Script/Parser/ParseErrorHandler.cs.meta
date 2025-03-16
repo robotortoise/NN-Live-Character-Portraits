@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: abd05702c50143df9b6a83309983de3b
+timeCreated: 1659371688
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Runtime/Script/Parser/ParseErrorHandler.cs
+  uploadId: 733088

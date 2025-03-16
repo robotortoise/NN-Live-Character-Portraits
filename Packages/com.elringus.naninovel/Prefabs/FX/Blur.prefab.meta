@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e466d9326b30a4b49a3dad428b4d9968
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Prefabs/FX/Blur.prefab
+  uploadId: 733088

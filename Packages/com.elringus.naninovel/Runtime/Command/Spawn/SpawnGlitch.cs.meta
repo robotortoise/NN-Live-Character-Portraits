@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 67371e38c96d473ca5ae32b4ce5e6075
+timeCreated: 1669056120
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Runtime/Command/Spawn/SpawnGlitch.cs
+  uploadId: 733088

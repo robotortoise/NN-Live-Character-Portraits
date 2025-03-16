@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 3af96e24015745f89cc2e1474bb700c1
+timeCreated: 1623702395
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Editor/Editors/ActorMetadata/CharacterMetadataEditor.cs
+  uploadId: 733088

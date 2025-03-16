@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: deb73d0d1d0c482391b3192524ad078e
+timeCreated: 1724066504
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Runtime/Localization/LocalizableTextHolder.cs
+  uploadId: 733088

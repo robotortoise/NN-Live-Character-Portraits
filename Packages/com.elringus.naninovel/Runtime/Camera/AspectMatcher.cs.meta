@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 56fb5cd69b8d4355a5e5ec8192c4ff3a
+timeCreated: 1645531469
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Runtime/Camera/AspectMatcher.cs
+  uploadId: 733088

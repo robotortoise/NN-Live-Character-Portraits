@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: e8b03ca083164e89980c32d8b77ea94f
+timeCreated: 1722519736
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Runtime/Audio/AutoVoiceResolver.cs
+  uploadId: 733088

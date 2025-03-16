@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 60147f9e70bd42b38d4833203bd6c826
+timeCreated: 1646144177
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Editor/Tools/Voiceover/IVoiceoverDocumentGenerator.cs
+  uploadId: 733088

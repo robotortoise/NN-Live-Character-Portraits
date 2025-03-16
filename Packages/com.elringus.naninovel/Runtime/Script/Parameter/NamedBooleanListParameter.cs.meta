@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 3c67c2f9286b4edfa3e474f5051dec20
+timeCreated: 1613066432
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Runtime/Script/Parameter/NamedBooleanListParameter.cs
+  uploadId: 733088

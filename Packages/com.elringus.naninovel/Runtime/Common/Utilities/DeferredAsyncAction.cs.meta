@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 9b6e3ff0b6b44afb87da8304fe8923e0
+timeCreated: 1723727314
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Runtime/Common/Utilities/DeferredAsyncAction.cs
+  uploadId: 733088

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1027d9ccdb8ed6f43807a513e04440e9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Materials/SnowParticle.mat
+  uploadId: 733088

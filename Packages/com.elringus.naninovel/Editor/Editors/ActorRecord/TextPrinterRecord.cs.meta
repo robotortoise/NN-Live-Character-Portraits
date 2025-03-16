@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: f1d30c13ae6a4737884ea306b4e46053
+timeCreated: 1623705222
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Editor/Editors/ActorRecord/TextPrinterRecord.cs
+  uploadId: 733088

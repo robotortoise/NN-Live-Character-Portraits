@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 447b02403da443fd8c6a924dac975a42
+timeCreated: 1692203471
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Runtime/UI/Common/ScrollController.cs
+  uploadId: 733088

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 5d4e0bdc98dc45a3bf127ea53ab87896
+timeCreated: 1660323377
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Editor/Tools/Fountain/FountainSplitter.cs
+  uploadId: 733088

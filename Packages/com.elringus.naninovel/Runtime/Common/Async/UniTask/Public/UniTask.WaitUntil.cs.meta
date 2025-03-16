@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 23c316e4f7b32f84a99a66b076ff4d47
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Runtime/Common/Async/UniTask/Public/UniTask.WaitUntil.cs
+  uploadId: 733088

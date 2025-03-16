@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 54d4f496685044bb9d076aed5f342c45
+timeCreated: 1612531402
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Runtime/Script/Parser/CommentLineParser.cs
+  uploadId: 733088

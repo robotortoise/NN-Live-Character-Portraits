@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e3b234b4273b7f64ab3f1d9fe425ed23
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Prefabs/DefaultUI/SceneTransitionUI.prefab
+  uploadId: 733088

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ba57d6e8a6168014f9b75b3eba0f952c
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Resources/Naninovel/Shaders/TransitionalTexture.shader
+  uploadId: 733088

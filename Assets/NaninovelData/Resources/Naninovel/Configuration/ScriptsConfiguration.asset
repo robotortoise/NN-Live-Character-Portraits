@@ -30,7 +30,7 @@ MonoBehaviour:
   AutoResolvePath: 1
   HotReloadScripts: 1
   WatchScripts: 1
-  ShowScriptNavigator: 1
+  ShowScriptNavigator: 0
   EnableVisualEditor: 1
   HideUnusedParameters: 1
   SelectPlayedScript: 1

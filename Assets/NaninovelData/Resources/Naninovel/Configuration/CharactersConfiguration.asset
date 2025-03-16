@@ -21,7 +21,7 @@ MonoBehaviour:
   AutoArrangeOnAdd: 1
   ArrangeRange: {x: 0, y: 1}
   DefaultMetadata:
-    Implementation: Naninovel.LayeredCharacter, Elringus.Naninovel.Runtime, Version=0.0.0.0,
+    Implementation: Naninovel.SpriteCharacter, Elringus.Naninovel.Runtime, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
     Loader:
       PathPrefix: Characters
@@ -30,7 +30,7 @@ MonoBehaviour:
         Culture=neutral, PublicKeyToken=null
       - Naninovel.ProjectResourceProvider, Elringus.Naninovel.Runtime, Version=0.0.0.0,
         Culture=neutral, PublicKeyToken=null
-    guid: f5d10f3b-cb9a-44d5-8b65-4c35a72cbb8c
+    guid: f8fafdcd-6ab3-4769-9d12-5bb00d06004a
     customData:
       rid: -2
     Pivot: {x: 0.5, y: 0}
@@ -46,7 +46,7 @@ MonoBehaviour:
       y: 0
       width: 1
       height: 1
-    BakedLookDirection: 0
+    BakedLookDirection: 1
     HasName: 1
     DisplayName: 
     UseCharacterColor: 0
@@ -66,9 +66,53 @@ MonoBehaviour:
     Poses: []
   Metadata:
     ids:
+    - BearyTheBear
     - Date
     - Rabura
     metas:
+    - Implementation: Naninovel.LayeredCharacter, Elringus.Naninovel.Runtime, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      Loader:
+        PathPrefix: Characters
+        ProviderTypes:
+        - Naninovel.AddressableResourceProvider, Elringus.Naninovel.Runtime, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        - Naninovel.ProjectResourceProvider, Elringus.Naninovel.Runtime, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+      guid: 83947037-0b74-4e0f-8e8b-657a8387e598
+      customData:
+        rid: -2
+      Pivot: {x: 0.5, y: 0}
+      PixelsPerUnit: 100
+      EnableDepthPass: 1
+      DepthAlphaCutoff: 0.5
+      CustomTextureMaterial: {fileID: 0}
+      CustomSpriteMaterial: {fileID: 0}
+      RenderTexture: {fileID: 0}
+      RenderRectangle:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1
+        height: 1
+      BakedLookDirection: 1
+      HasName: 1
+      DisplayName: Beary
+      UseCharacterColor: 0
+      NameColor: {r: 1, g: 1, b: 1, a: 1}
+      MessageColor: {r: 1, g: 1, b: 1, a: 1}
+      HighlightWhenSpeaking: 1
+      HighlightCharacterCount: 0
+      SpeakingPose: Speaking
+      NotSpeakingPose: NotSpeaking
+      PlaceOnTop: 1
+      HighlightDuration: 0.35
+      HighlightEasing: 1
+      MessageSound: 
+      MessageSoundPlayback: 0
+      VoiceSource: {fileID: 0}
+      LinkedPrinter: 
+      Poses: []
     - Implementation: Naninovel.LayeredCharacter, Elringus.Naninovel.Runtime, Version=0.0.0.0,
         Culture=neutral, PublicKeyToken=null
       Loader:
@@ -82,7 +126,7 @@ MonoBehaviour:
       customData:
         rid: -2
       Pivot: {x: 0.5, y: 0}
-      PixelsPerUnit: 100
+      PixelsPerUnit: 200
       EnableDepthPass: 1
       DepthAlphaCutoff: 0.5
       CustomTextureMaterial: {fileID: 0}
@@ -100,7 +144,7 @@ MonoBehaviour:
       UseCharacterColor: 0
       NameColor: {r: 1, g: 1, b: 1, a: 1}
       MessageColor: {r: 1, g: 1, b: 1, a: 1}
-      HighlightWhenSpeaking: 0
+      HighlightWhenSpeaking: 1
       HighlightCharacterCount: 0
       SpeakingPose: Speaking
       NotSpeakingPose: NotSpeaking
@@ -125,7 +169,7 @@ MonoBehaviour:
       customData:
         rid: -2
       Pivot: {x: 0.5, y: 0}
-      PixelsPerUnit: 100
+      PixelsPerUnit: 200
       EnableDepthPass: 1
       DepthAlphaCutoff: 0.5
       CustomTextureMaterial: {fileID: 0}
@@ -143,10 +187,10 @@ MonoBehaviour:
       UseCharacterColor: 0
       NameColor: {r: 1, g: 1, b: 1, a: 1}
       MessageColor: {r: 1, g: 1, b: 1, a: 1}
-      HighlightWhenSpeaking: 0
+      HighlightWhenSpeaking: 1
       HighlightCharacterCount: 0
-      SpeakingPose: 
-      NotSpeakingPose: 
+      SpeakingPose: Speaking
+      NotSpeakingPose: NotSpeaking
       PlaceOnTop: 1
       HighlightDuration: 0.35
       HighlightEasing: 1

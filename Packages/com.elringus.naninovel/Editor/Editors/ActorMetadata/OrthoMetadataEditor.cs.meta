@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: a8dc2a6c0f704ed58a17b05e1750d835
+timeCreated: 1623694916
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Editor/Editors/ActorMetadata/OrthoMetadataEditor.cs
+  uploadId: 733088

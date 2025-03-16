@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5951be07f549bb04aa2f6d1655093de2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Prefabs/DefaultUI/BacklogMessage.prefab
+  uploadId: 733088

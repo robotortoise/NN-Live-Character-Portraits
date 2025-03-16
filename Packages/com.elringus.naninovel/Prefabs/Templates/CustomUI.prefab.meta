@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 57cab1edbd5ddae488f99d88d5b07db7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Prefabs/Templates/CustomUI.prefab
+  uploadId: 733088

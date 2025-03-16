@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6864955fe4deaba4fa7f10a5b7571627
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Prefabs/DefaultUI/PlayScriptButton.prefab
+  uploadId: 733088

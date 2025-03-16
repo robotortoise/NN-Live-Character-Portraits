@@ -2632,7 +2632,7 @@ MonoBehaviour:
   reversed: 0
   renderMaterial: {fileID: 0}
   renderCamera: {fileID: 0}
-  cameraMask: 0
+  cameraMask: 1
   compositionMap:
   - Key: Normal
     Composition: Effects>NoEffect,Arms>ArmsDefault,Mouth>MouthDefault,Eye>EyeDefault,Brow>BrowDefault
@@ -2672,7 +2672,19 @@ MonoBehaviour:
   renderOnly: 0
   onAppearanceChanged:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 8912532130992022889, guid: 1dacf03b7b67be749958d4d37b5da145, type: 3}
+        m_TargetAssemblyTypeName: CharacterCameraSwitcher, Assembly-CSharp
+        m_MethodName: SwitchCamera
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 2004217370489051168, guid: e883848fe3df66749914486cd5e0063c, type: 3}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Camera, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   onStartedSpeaking:
     m_PersistentCalls:
       m_Calls:

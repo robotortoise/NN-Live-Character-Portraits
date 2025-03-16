@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 8fee71fb8463ec54c945a599f146b191
+timeCreated: 1509197344
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Runtime/Common/ResourceProvider/GoogleDriveResourceProvider.cs
+  uploadId: 733088

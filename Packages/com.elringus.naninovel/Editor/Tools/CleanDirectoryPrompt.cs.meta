@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 6f6e6accb1db459f800751d779e20daa
+timeCreated: 1653920125
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Editor/Tools/CleanDirectoryPrompt.cs
+  uploadId: 733088

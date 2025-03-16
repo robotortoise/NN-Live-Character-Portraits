@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a2cdf0df4ee3a01488d71a4f9583fdaf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Runtime/Actor/Common/Background/BackgroundsConfiguration.cs
+  uploadId: 733088

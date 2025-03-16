@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 4d49c13a751b4ab989e131921413c881
+timeCreated: 1661698522
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Runtime/UI/ClickThrough/InteractionBlocker.cs
+  uploadId: 733088

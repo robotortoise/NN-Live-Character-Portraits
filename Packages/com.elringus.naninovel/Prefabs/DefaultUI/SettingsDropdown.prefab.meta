@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1152beb649a82f848a33bf5e3818c5be
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Prefabs/DefaultUI/SettingsDropdown.prefab
+  uploadId: 733088

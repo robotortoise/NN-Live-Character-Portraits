@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 26e47b9cfefd7274ca247a1d79d1265e
+timeCreated: 1499437650
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Runtime/Common/Utilities/WebUtils.cs
+  uploadId: 733088

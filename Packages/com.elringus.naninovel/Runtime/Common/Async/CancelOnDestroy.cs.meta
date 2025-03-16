@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 7ee843c8a3bf4dfab4c66d811c2c8f83
+timeCreated: 1654091040
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Runtime/Common/Async/CancelOnDestroy.cs
+  uploadId: 733088

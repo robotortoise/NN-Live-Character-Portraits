@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 2e0bf48be18c43d2afd9da2aa496d512
+timeCreated: 1611828927
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Runtime/UI/Toast/ToastAppearance.cs
+  uploadId: 733088

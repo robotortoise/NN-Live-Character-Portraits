@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 96dc194b7ee81534b9bd5cb706684997
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Editor/Script/VisualEditor/Searcher/SearcherHighlighter.cs
+  uploadId: 733088

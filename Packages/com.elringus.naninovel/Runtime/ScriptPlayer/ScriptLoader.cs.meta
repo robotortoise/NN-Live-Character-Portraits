@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: acfb9205d0564dceaf20480c82d9c97d
+timeCreated: 1708416832
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Runtime/ScriptPlayer/ScriptLoader.cs
+  uploadId: 733088

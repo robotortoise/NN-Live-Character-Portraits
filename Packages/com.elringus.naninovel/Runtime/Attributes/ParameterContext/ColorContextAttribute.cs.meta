@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: f1d6f4e24ee94e5c91d36b8f49b3233f
+timeCreated: 1670162209
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Runtime/Attributes/ParameterContext/ColorContextAttribute.cs
+  uploadId: 733088

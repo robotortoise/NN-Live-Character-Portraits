@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 94417b8a3230450ab719b2f489b47bf4
+timeCreated: 1644149071
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Runtime/Attributes/LocalesPopupAttribute.cs
+  uploadId: 733088

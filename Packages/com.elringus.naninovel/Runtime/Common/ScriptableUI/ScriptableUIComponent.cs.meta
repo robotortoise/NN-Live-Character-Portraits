@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 94137f9540771b649ab6f119fa42ed0f
+timeCreated: 1499438316
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Runtime/Common/ScriptableUI/ScriptableUIComponent.cs
+  uploadId: 733088

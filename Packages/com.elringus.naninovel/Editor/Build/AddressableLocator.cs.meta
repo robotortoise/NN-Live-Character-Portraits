@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 8538a1b1e548448885ad696cabab769f
+timeCreated: 1732988372
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135453
+  packageName: "Naninovel \u2014 Visual Novel Engine"
+  packageVersion: 1.20
+  assetPath: Packages/com.elringus.naninovel/Editor/Build/AddressableLocator.cs
+  uploadId: 733088
