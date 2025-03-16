@@ -20,10 +20,3 @@ TrueTypeFontImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 135453
-  packageName: "Naninovel \u2014 Visual Novel Engine"
-  packageVersion: 1.20
-  assetPath: Packages/com.elringus.naninovel/Fonts/Inter-Regular.ttf
-  uploadId: 733088

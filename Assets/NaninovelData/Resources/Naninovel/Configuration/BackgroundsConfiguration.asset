@@ -16,7 +16,7 @@ MonoBehaviour:
   DefaultEasing: 0
   AutoShowOnModify: 1
   SceneOrigin: {x: 0.5, y: 0}
-  ZOffset: 100
+  ZOffset: 20
   ZStep: 0.1
   DefaultMetadata:
     Implementation: Naninovel.SpriteBackground, Elringus.Naninovel.Runtime, Version=0.0.0.0,
@@ -28,7 +28,7 @@ MonoBehaviour:
         Culture=neutral, PublicKeyToken=null
       - Naninovel.ProjectResourceProvider, Elringus.Naninovel.Runtime, Version=0.0.0.0,
         Culture=neutral, PublicKeyToken=null
-    guid: 2be577f3-cb3f-46ca-b337-8cea91d3baf6
+    guid: 91c83f90-cef7-4787-a858-0b2cd5cb26d4
     customData:
       rid: -2
     Pivot: {x: 0.5, y: 0.5}
@@ -62,7 +62,7 @@ MonoBehaviour:
           Culture=neutral, PublicKeyToken=null
         - Naninovel.ProjectResourceProvider, Elringus.Naninovel.Runtime, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      guid: 2203052f-e236-4739-b8c9-8ff235441add
+      guid: b2ac46b8-09e1-48e5-9623-5bcac7e82485
       customData:
         rid: -2
       Pivot: {x: 0.5, y: 0.5}

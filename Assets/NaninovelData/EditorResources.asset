@@ -13,42 +13,42 @@ MonoBehaviour:
   m_Name: EditorResources
   m_EditorClassIdentifier: 
   resourceCategories:
-  - Id: TextPrinters/41915a85-69cb-410e-9927-802193863295
+  - Id: TextPrinters/117a5b05-aa3f-42e0-9bf5-77e96c21d9e3
     Resources:
     - name: Dialogue
       pathPrefix: TextPrinters
       guid: 1bc08ccd31adff6439e97161aa6e1d8b
-  - Id: TextPrinters/ec6f7881-75f2-4f77-bd1d-cadcf2d887bc
+  - Id: TextPrinters/8975833e-849e-4ba2-848d-da3ad537d3c1
     Resources:
     - name: Fullscreen
       pathPrefix: TextPrinters
       guid: c87cebd3f0d4f174789cd351ce9591c4
-  - Id: TextPrinters/d0f011fc-b8c8-4661-8ec2-690e630c7508
+  - Id: TextPrinters/997976a5-77ba-48d7-8ea2-9c168d6f0d4c
     Resources:
     - name: Wide
       pathPrefix: TextPrinters
       guid: 781828b806deb1e4cbf50ef9de41da10
-  - Id: TextPrinters/ecdadb6b-3f12-473b-8c1c-10a38d423bfa
+  - Id: TextPrinters/52505665-6d82-45e1-a25b-1d88d22d0261
     Resources:
     - name: Chat
       pathPrefix: TextPrinters
       guid: 6f9836a3c4f777741b1962979d97e485
-  - Id: TextPrinters/4f204877-7b1b-4d74-8587-06324fc9f3ef
+  - Id: TextPrinters/050b51c4-3adc-4dc8-9ae9-fc8f9cd5698e
     Resources:
     - name: Bubble
       pathPrefix: TextPrinters
       guid: b47d9659b2be5ee4e95a776f213c9d4b
-  - Id: ChoiceHandlers/6f459aed-6286-4d89-bb8e-a7ba0d871e69
+  - Id: ChoiceHandlers/b507b8ce-accd-44e9-8074-a36f85048f91
     Resources:
     - name: ButtonList
       pathPrefix: ChoiceHandlers
       guid: 1f6aa29000e839c409e6a9c0704adc96
-  - Id: ChoiceHandlers/609ee747-ea65-4205-a6df-3fc9c5d38f45
+  - Id: ChoiceHandlers/3ac54a14-e318-478e-8fa0-754eba6bfbd3
     Resources:
     - name: ButtonArea
       pathPrefix: ChoiceHandlers
       guid: 4fa6d62f894ae6e4698bfa8af59e7942
-  - Id: ChoiceHandlers/1c60d5d5-894a-417f-bb02-485192840971
+  - Id: ChoiceHandlers/9aed6034-8453-4ec9-a953-07f0d28f6582
     Resources:
     - name: ChatReply
       pathPrefix: ChoiceHandlers
@@ -144,26 +144,6 @@ MonoBehaviour:
     - name: ScriptNavigatorUI
       pathPrefix: UI
       guid: 735d6aa767879aa469134858c5b2f0a7
-  - Id: Characters/2fcea4c8-b0ac-42c3-905c-577d6027a82b
-    Resources:
-    - name: Rabura
-      pathPrefix: Characters
-      guid: 28f3f2831da7e5a48b807399b0414a10
-  - Id: Characters/2f8569df-5084-40d1-a9ff-861914105e05
-    Resources:
-    - name: Date
-      pathPrefix: Characters
-      guid: a74ef49c1b03cdf4aa285ba884fb9ecd
-  - Id: Characters/83947037-0b74-4e0f-8e8b-657a8387e598
-    Resources:
-    - name: BearyTheBear
-      pathPrefix: Characters
-      guid: 16f59a40c3ace434fb45e66b2f71536a
-  - Id: TextPrinters/b9647845-e77f-49d1-a308-0dc5d2bce7b4
-    Resources:
-    - name: WidePortraitPrinter
-      pathPrefix: TextPrinters
-      guid: 575e1ab20e78a3f4f9406d94a146a020
   - Id: Scripts
     Resources:
     - name: DateRaburaTest
@@ -174,3 +154,25 @@ MonoBehaviour:
     - name: TESTTEST
       pathPrefix: Backgrounds/TestBG1
       guid: 02b68bc8d05cc6448b1b18bf2422e5c9
+  - Id: Characters/83947037-0b74-4e0f-8e8b-657a8387e598
+    Resources:
+    - name: BearyTheBear
+      pathPrefix: Characters
+      guid: 16f59a40c3ace434fb45e66b2f71536a
+  - Id: Characters/2f8569df-5084-40d1-a9ff-861914105e05
+    Resources:
+    - name: Date
+      pathPrefix: Characters
+      guid: a74ef49c1b03cdf4aa285ba884fb9ecd
+  - Id: Characters/2fcea4c8-b0ac-42c3-905c-577d6027a82b
+    Resources:
+    - name: Rabura
+      pathPrefix: Characters
+      guid: 28f3f2831da7e5a48b807399b0414a10
+  - Id: TextPrinters/b9647845-e77f-49d1-a308-0dc5d2bce7b4
+    Resources:
+    - name: WidePortraitPrinter
+      pathPrefix: TextPrinters
+      guid: 575e1ab20e78a3f4f9406d94a146a020
+  - Id: CharacterAvatars
+    Resources: []
